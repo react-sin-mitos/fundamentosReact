@@ -2,7 +2,7 @@ Proyecto realizado con [Create React App](https://github.com/facebook/create-rea
 
 ## Scripts
 
-En el directorio del proyecto, ejecutar run:
+En el directorio del proyecto, ejecutar:
 
 ### `yarn start` o `npm start`
 
