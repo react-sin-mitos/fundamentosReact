@@ -1,16 +1,16 @@
 Proyecto realizado con [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts
+
+## Objetivo 
+
+Identificar métodos del ciclo de vida de React
+
+
+## Instalación del proyectos
+
+Descargar proyecto
+### `git clone https://github.com/react-sin-mitos/fundamentosReact.git `
 
 En el directorio del proyecto, ejecutar:
-
-### `yarn start` o `npm start`
-
-## Cambios en el código
-Se utilizarón los siguientes tag para acceder a los ejemplos 
-
-### `git tag -l`  
-Listar los tag creados
-
-### `git show <tag>`  
-Permite ver el código asociado al Tag indicado
+### `yarn install`
+### `yarn start`
