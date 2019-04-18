@@ -5,6 +5,10 @@ Proyecto realizado con [Create React App](https://github.com/facebook/create-rea
 
 Identificar métodos del ciclo de vida de React
 
+## Presentación
+
+[Presentación](https://docs.google.com/presentation/d/1O1jOsU2BTn7vM5o66MnOMpjHGFvO-tjvTzsVugVFxIY/edit?usp=sharing)
+
 
 ## Instalación del proyectos
 
